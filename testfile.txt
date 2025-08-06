@@ -1,0 +1,7 @@
+// Remote-Code aus textfile.txt
+
+alert("🚨 Remote-Code wurde erfolgreich ausgeführt!");
+
+document.body.style.backgroundColor = "#222";
+document.body.style.color = "#fff";
+document.body.innerHTML += "<p style='font-size: 20px;'>🛠️ Remote-UI geladen.</p>";
